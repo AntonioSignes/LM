@@ -13,6 +13,8 @@
 Nosotros utilizamos estas tres formas:
 CSS interno-
 Dentro del <head></head> utilizamos type="text/css"
+
+
 CSS externo-
 <html>
 <head>
@@ -23,6 +25,8 @@ CSS externo-
         }
     </style>
 </head>
+
+
 CSS Embebido-
 Con la etiqueta <style></style>
 	
