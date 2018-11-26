@@ -1,5 +1,13 @@
 # LM
-```html
-<p>Hola</p>
-```
-## explica las 3 formas de usar CSS en HTML
+## Estructura mínima de una web
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	
+	</body>
+	</html>
+## Explica las 3 formas de usar CSS en HTML
+//HOLA
