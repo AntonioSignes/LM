@@ -53,5 +53,7 @@ Con la etiqueta
 //y es mejor añadirlo dentro del// 
 <head></head>
 
+## ¿Que diferencia hay entre una clase y una ID?
+
 
 
