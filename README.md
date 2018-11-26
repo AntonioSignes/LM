@@ -50,9 +50,9 @@ Con la etiqueta
 ## Como se puede incluir javascript en HTML
 Se puede agregar mediante la etiqueta
 <script></script>
-dentro del 
-<head></head>
+dentro del head
 ## ¿Que diferencia hay entre una clase y una ID?
-
+El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML.
+El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que aplicar los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
 
 
