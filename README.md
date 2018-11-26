@@ -48,9 +48,9 @@ Con la etiqueta
 	</html>	
 	
 ## Como se puede incluir javascript en HTML
-Se puede agregar mediante la etiqueta 	
+//Se puede agregar mediante la etiqueta// 	
 <script></script>
-y es mejor añadirlo dentro del 
+//y es mejor añadirlo dentro del// 
 <head></head>
 
 
