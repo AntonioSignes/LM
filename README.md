@@ -1,4 +1,5 @@
 # LM
 ```html
 <p>Hola</p>
-```html
+```
+## explica las 3 formas de usar CSS en HTML
