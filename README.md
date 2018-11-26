@@ -50,8 +50,7 @@ Con la etiqueta
 ## Como se puede incluir javascript en HTML
 //Se puede agregar mediante la etiqueta// 	
 <script></script>
-//y es mejor añadirlo dentro del// 
-<head></head>
+y es mejor añadirlo dentro del <head></head>
 
 ## ¿Que diferencia hay entre una clase y una ID?
 
