@@ -12,22 +12,23 @@
 ## Explica las 3 formas de usar CSS en HTML
 Nosotros utilizamos estas tres formas:
 CSS interno-
-Dentro del <head></head> utilizamos type="text/css"
-
+Dentro del 
+	<head></head> 
+utilizamos 
+	type="text/css"
 CSS externo-
-<html>
-<head>
-    <title>Título de la página</title>
-    <style type="text/css">
-        div {
-            background:#FFFFFF;
-        }
-    </style>
-</head>
-	
-
+	<html>
+	<head>
+    	<title>Título de la página</title>
+    	<style type="text/css">
+        	div {
+            	background:#FFFFFF;
+        	}
+    	</style>
+	</head>
 CSS Embebido-
-Con la etiqueta <style></style>
+Con la etiqueta 
+	<style></style>
 
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
 <!DOCTYPE html>
@@ -47,5 +48,9 @@ Con la etiqueta <style></style>
 	</html>	
 	
 ## Como se puede incluir javascript en HTML
-Se puede agregar mediante la etiqueta <script></script>
-y es mejor añadirlo dentro del <head></head>
+Se puede agregar mediante la etiqueta 	
+<script></script>
+y es mejor añadirlo dentro del 
+<head></head>
+
+
