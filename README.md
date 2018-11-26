@@ -28,4 +28,24 @@ CSS externo-
 
 CSS Embebido-
 Con la etiqueta <style></style>
+
+## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<ul>
+		<li>Sal(10g)</li>
+		<li>Pimienta(5g)</li>
+		<li>Pasta(500g)</li>
+		<li>Aceite(15ml)</li>
+		<li>Atún(200g)</li>
+		</ul>	
+	</body>
+	</html>	
 	
+## Como se puede incluir javascript en HTML
+Se puede agregar mediante la etiqueta <script></script>
+y es mejor añadirlo dentro del <head></head>
