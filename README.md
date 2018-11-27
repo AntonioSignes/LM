@@ -128,7 +128,7 @@ h1, h2, h3 {
 
 En este caso se agrupan muchas reglas individuales en un selector múltiple.
 
-body>
+<body>
   <p class="destacado"></p>
   <p></p>
   <p></p>
