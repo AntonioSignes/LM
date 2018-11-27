@@ -85,5 +85,17 @@ Este elemento se muestra cuando la pantalla está completa.
 
 ## Explica el modelo de caja de CSS (margin, border y padding)
 
+margin:
+El margen envuelve la caja CSS y sostiene a las otras cajas del diseño. Se comporta como un padding, se puede modificar con la propiedad abreviada margin o cada lado con las siguientes propiedades:
+margin-left, margin-right, margin-bottom, margin-top.
 
+padding:
+Es el margen interior de la caja CSS, es decir, entre el límite exterior de la caja del contenido y el límite interior del borde.
+EL tamaño de este se puede modificar mediante la propiedad abreviada padding o cada lado con las siguientes propiedades:
+padding-top, padding-right, padding-bottom y padding-left.
+
+border:
+Es el borde de una caja CSS, tiene por defecto tamaño 0, pero, se puede modificar su grosor, visibilidad, color con la propiedad abreviada border, o cada lado con las siguientes propiedades:
+border-top, border-right, border-bottom, border-left.
+border-width, border-style, border-color. Estas propiedades establecen el grosor, el estilo y el color respectivamente.
 
