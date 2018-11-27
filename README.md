@@ -1,7 +1,6 @@
 # LM
 ## Estructura mínima de una web.
 ```html
-<!DOCTYPE html>
 	<html>
 	<head>
 		<title></title>
@@ -32,7 +31,7 @@ Con la etiqueta
 	<style></style>
 
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
-<!DOCTYPE html>
+```html
 	<html>
 	<head>
 		<title></title>
@@ -58,7 +57,7 @@ El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que
 
 ## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana.
 
-<!DOCTYPE html>
+```html
 <html>
 <head>
 </head>
