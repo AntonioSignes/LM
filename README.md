@@ -97,5 +97,7 @@ padding-top, padding-right, padding-bottom y padding-left.
 border:
 Es el borde de una caja CSS, tiene por defecto tamaño 0, pero, se puede modificar su grosor, visibilidad, color con la propiedad abreviada border, o cada lado con las siguientes propiedades:
 border-top, border-right, border-bottom, border-left.
-border-width, border-style, border-color. Estas propiedades establecen el grosor, el estilo y el color respectivamente.
+
+Estas propiedades establecen el grosor, el estilo y el color respectivamente.
+border-width, border-style, border-color.
 
