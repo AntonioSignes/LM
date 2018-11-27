@@ -55,4 +55,36 @@ dentro del head
 El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML.
 El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que aplicar los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
 
+## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<a href="https://www.marca.com/">Marca</a>
+</body>
+</html>
+
+## ¿Qué son las pseudoclases? Pon ejemplos.
+
+Una pseudoclase es una palabra clave que se añade a los selectores y que especifica un estado especial del elemento seleccionado.
+Ejemplos:
+
+:disabled
+Representa a cualquier elemento deshabilitado, es decir, un elemento que no está activado.
+
+:focus
+Representa un elemento que ha sido enfocado, que se ha centrado en él y se activa cuando el usuario hace clic o toca un elemento.
+
+:valid
+Esta pseudoclase ayuda al usuario a resaltar los campos correctos.
+
+:fullscreen
+Este elemento se muestra cuando la pantalla está completa.
+
+## Explica el modelo de caja de CSS (margin, border y padding)
+
+
 
