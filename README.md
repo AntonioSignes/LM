@@ -85,16 +85,16 @@ Este elemento se muestra cuando la pantalla está completa.
 
 ## Explica el modelo de caja de CSS (margin, border y padding).
 
-margin:
+Margin:
 El margen envuelve la caja CSS y sostiene a las otras cajas del diseño. Se comporta como un padding, se puede modificar con la propiedad abreviada margin o cada lado con las siguientes propiedades:
 margin-left, margin-right, margin-bottom, margin-top.
 
-padding:
+Padding:
 Es el margen interior de la caja CSS, es decir, entre el límite exterior de la caja del contenido y el límite interior del borde.
 EL tamaño de este se puede modificar mediante la propiedad abreviada padding o cada lado con las siguientes propiedades:
 padding-top, padding-right, padding-bottom y padding-left.
 
-border:
+Border:
 Es el borde de una caja CSS, tiene por defecto tamaño 0, pero, se puede modificar su grosor, visibilidad, color con la propiedad abreviada border, o cada lado con las siguientes propiedades:
 border-top, border-right, border-bottom, border-left.
 
@@ -112,7 +112,7 @@ Ejemplos:
   padding: 0;
 }
 
-Este selector universal es el * pero ez poco común. En este caso esta eliminando el margen y el relleno.
+Este selector universal es el * pero es poco común. En este caso esta eliminando el margen y el relleno.
 
 p {
   ...
@@ -129,9 +129,9 @@ h1, h2, h3 {
 En este caso se agrupan muchas reglas individuales en un selector múltiple.
 
 body>
-  <p class="destacado">Lorem ipsum dolor sit amet...</p>
-  <p>Nunc sed lacus et est adipiscing accumsan...</p>
-  <p>Class aptent taciti sociosqu ad litora...</p>
+  <p class="destacado"></p>
+  <p></p>
+  <p></p>
 </body>
 
 Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar.
