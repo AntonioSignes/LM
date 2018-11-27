@@ -131,7 +131,7 @@ En este caso se agrupan muchas reglas individuales en un selector múltiple.
 <body>
   <p class="destacado">Hola</p>
   <p>Hello</p>
-  <p>Hola</p>
+  <p>Bonjour</p>
 </body>
 
 Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar.
