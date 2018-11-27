@@ -1,5 +1,5 @@
 # LM
-## Estructura mínima de una web
+## Estructura mínima de una web.
 <!DOCTYPE html>
 	<html>
 	<head>
@@ -9,7 +9,7 @@
 	
 	</body>
 	</html>
-## Explica las 3 formas de usar CSS en HTML
+## Explica las 3 formas de usar CSS en HTML.
 Nosotros utilizamos estas tres formas:
 CSS interno-
 Dentro del 
@@ -30,7 +30,7 @@ CSS Embebido-
 Con la etiqueta 
 	<style></style>
 
-## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
+## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
 <!DOCTYPE html>
 	<html>
 	<head>
@@ -47,7 +47,7 @@ Con la etiqueta
 	</body>
 	</html>	
 	
-## Como se puede incluir javascript en HTML
+## Como se puede incluir javascript en HTML.
 Se puede agregar mediante la etiqueta
 <script></script>
 dentro del head
@@ -55,7 +55,7 @@ dentro del head
 El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML.
 El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que aplicar los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
 
-## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana
+## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana.
 
 <!DOCTYPE html>
 <html>
@@ -83,7 +83,7 @@ Esta pseudoclase ayuda al usuario a resaltar los campos correctos.
 :fullscreen
 Este elemento se muestra cuando la pantalla está completa.
 
-## Explica el modelo de caja de CSS (margin, border y padding)
+## Explica el modelo de caja de CSS (margin, border y padding).
 
 margin:
 El margen envuelve la caja CSS y sostiene a las otras cajas del diseño. Se comporta como un padding, se puede modificar con la propiedad abreviada margin o cada lado con las siguientes propiedades:
@@ -98,6 +98,43 @@ border:
 Es el borde de una caja CSS, tiene por defecto tamaño 0, pero, se puede modificar su grosor, visibilidad, color con la propiedad abreviada border, o cada lado con las siguientes propiedades:
 border-top, border-right, border-bottom, border-left.
 
-Estas propiedades establecen el grosor, el estilo y el color respectivamente.
+Estas propiedades establecen el grosor, el estilo y el color respectivamente:
 border-width, border-style, border-color.
+
+## Explica que son los selectores de CSS y pon ejemplos.
+
+Los selectores indican sobre que elementos se aplicará un conjunto de reglas escritas por el usuario.
+
+Ejemplos: 
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+Este selector universal es el * pero ez poco común. En este caso esta eliminando el margen y el relleno.
+
+p {
+  ...
+}
+
+Este selector selecciona todos los párrafos de la página.
+
+h1, h2, h3 {
+  color: #8A8E27;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+En este caso se agrupan muchas reglas individuales en un selector múltiple.
+
+body>
+  <p class="destacado">Lorem ipsum dolor sit amet...</p>
+  <p>Nunc sed lacus et est adipiscing accumsan...</p>
+  <p>Class aptent taciti sociosqu ad litora...</p>
+</body>
+
+Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar.
+
+
 
