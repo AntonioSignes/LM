@@ -60,7 +60,7 @@ El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Marca</title>
 </head>
 <body>
 	<a href="https://www.marca.com/">Marca</a>
