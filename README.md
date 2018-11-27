@@ -57,7 +57,6 @@ El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que
 
 ## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana.
 
-```html
 <html>
 <head>
 </head>
