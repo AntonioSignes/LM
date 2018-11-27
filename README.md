@@ -9,8 +9,7 @@
 	<body>
 	
 	</body>
-	```
-	``` 
+	</html>
 ## Explica las 3 formas de usar CSS en HTML.
 Nosotros utilizamos estas tres formas:
 CSS interno-
