@@ -9,7 +9,9 @@
 	
 	</body>
 	</html>
-## Explica las 3 formas de usar CSS en HTML.
+
+## Explica las 3 formas de usar CSS en HTML.  
+  
 Nosotros utilizamos estas tres formas:
 CSS interno-
 Dentro del 
@@ -31,7 +33,8 @@ Con la etiqueta
 	<style></style>
 
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
-```html
+
+	```html
 	<html>
 	<head>
 		<title></title>
@@ -48,10 +51,14 @@ Con la etiqueta
 	</html>	
 	
 ## Como se puede incluir javascript en HTML.
+	
+	
 Se puede agregar mediante la etiqueta
 <script></script>
 dentro del head
 ## ¿Que diferencia hay entre una clase y una ID?
+	
+	
 El elemento "ID" es único y por tanto no se podrá repetir dentro del documento HTML.
 El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que aplicar los mismos estilos a diferentes elementos, puesto que permite reducir las líneas de código.
 
@@ -133,7 +140,7 @@ En este caso se agrupan muchas reglas individuales en un selector múltiple.
   <p>Bonjour</p>
 </body>
 
-Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar..
+Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar.
 
 
 
