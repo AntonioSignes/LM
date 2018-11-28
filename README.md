@@ -43,7 +43,6 @@ Con la etiqueta
 	
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
 
-	```html
 	<html>
 	<head>
 		<title></title>
