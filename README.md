@@ -14,12 +14,15 @@
 ## Explica las 3 formas de usar CSS en HTML.  
   
 Nosotros utilizamos estas tres formas:
+
 CSS interno-
-Dentro del 
+
+Dentro del
 	<head></head> 
 utilizamos 
 	type="text/css"
 CSS externo-
+```html
 	<html>
 	<head>
     	<title>Título de la página</title>
@@ -29,6 +32,7 @@ CSS externo-
         	}
     	</style>
 	</head>
+	```
 CSS Embebido-
 Con la etiqueta 
 	<style></style>
