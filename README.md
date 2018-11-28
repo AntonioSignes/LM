@@ -15,14 +15,10 @@
   
 Nosotros utilizamos estas tres formas:
 CSS interno-
-Dentro del
 ```html
-	<head></head>
-``` 
-utilizamos 
-```html
-	type="text/css"
+<link rel="stylesheet" type="text/css" href="index.css" />
 ```
+En la cabecera, incluimos dentro del "head" el CSS.
 CSS externo-
 ```html
 	<html>
@@ -37,10 +33,10 @@ CSS externo-
 	</html>
 ```
 CSS Embebido-
-Con la etiqueta
-	
-	<style></style>
-	
+Con la etiqueta "style"
+```html
+<p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
+```
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
 ```html
 	<head>
@@ -59,11 +55,19 @@ Con la etiqueta
 
 ## Como se puede incluir javascript en HTML.
 
-Se puede agregar mediante la etiqueta
+Se puede agregar mediante la etiqueta "script" entre las etiquetas del "head" o del "body:
 ```html
-<script></script>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>JAVASCRIPT ESTA SITUADO AQUÍ</script>
+<title></title>
+</head>
+<body>
+<script>JAVASCRIPT TAMBIÉN PUEDE IR AQUÍ</script>
+</body>
 ```
-dentro del head
 
 ## ¿Que diferencia hay entre una clase y una ID?
 	
