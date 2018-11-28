@@ -9,6 +9,7 @@
 	
 	</body>
 	</html>
+```
 
 ## Explica las 3 formas de usar CSS en HTML.  
   
