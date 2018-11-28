@@ -129,26 +129,28 @@ Ejemplos:
 ```
 
 Este selector universal es el * pero es poco común. En este caso esta eliminando el margen y el relleno.
-
+```html
 p {
   ...
 }
-
+```
 Este selector selecciona todos los párrafos de la página.
-
+```html
 h1, h2, h3 {
   color: #8A8E27;
   font-weight: normal;
   font-family: Arial, Helvetica, sans-serif;
 }
+```
 
 En este caso se agrupan muchas reglas individuales en un selector múltiple.
-
+```html
 <body>
   <p class="destacado">Hola</p>
   <p>Hello</p>
   <p>Bonjour</p>
 </body>
+```
 
 Una de las soluciones más sencillas para aplicar estilos a un solo elemento de la página consiste en utilizar el atributo class sobre ese elemento para indicar directamente la regla CSS que se le debe aplicar.
 
