@@ -42,8 +42,7 @@ Con la etiqueta
 	<style></style>
 	
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
-
-	<html>
+```html
 	<head>
 		<title></title>
 	</head>
@@ -56,7 +55,7 @@ Con la etiqueta
 		<li>Atún(200g)</li>
 		</ul>	
 	</body>
-	</html>
+```
 
 ## Como se puede incluir javascript en HTML.
 
@@ -65,6 +64,7 @@ Se puede agregar mediante la etiqueta
 <script></script>
 ```
 dentro del head
+
 ## ¿Que diferencia hay entre una clase y una ID?
 	
 	
