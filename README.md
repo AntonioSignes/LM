@@ -73,13 +73,13 @@ El elemento "clase" se puede repetir y eso es muy beneficioso cuando tenemos que
 
 ## Código para hacer un enlace a otra página y que esta se abra en una nueva ventana.
 
-<html>
+```html
 <head>
 </head>
 <body>
 	<a href="https://www.marca.com/">Marca</a>
 </body>
-</html>
+```
 
 ## ¿Qué son las pseudoclases? Pon ejemplos.
 
@@ -121,11 +121,12 @@ border-width, border-style, border-color.
 Los selectores indican sobre que elementos se aplicará un conjunto de reglas escritas por el usuario.
 
 Ejemplos: 
-
+```html
 * {
   margin: 0;
   padding: 0;
 }
+```
 
 Este selector universal es el * pero es poco común. En este caso esta eliminando el margen y el relleno.
 
