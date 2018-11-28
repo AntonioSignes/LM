@@ -35,12 +35,12 @@ CSS externo-
     	</style>
 	</head>
 	</html>
-	```
+```
 CSS Embebido-
 Con la etiqueta
-	```html
+	
 	<style></style>
-	```
+	
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
 
 	```html
