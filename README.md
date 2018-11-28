@@ -59,10 +59,11 @@ Con la etiqueta
 	</html>
 
 ## Como se puede incluir javascript en HTML.
-	
-	
+
 Se puede agregar mediante la etiqueta
+```html
 <script></script>
+```
 dentro del head
 ## ¿Que diferencia hay entre una clase y una ID?
 	
