@@ -34,6 +34,7 @@ CSS externo-
         	}
     	</style>
 	</head>
+	</html>
 	```
 CSS Embebido-
 Con la etiqueta
@@ -56,7 +57,8 @@ Con la etiqueta
 		<li>Atún(200g)</li>
 		</ul>	
 	</body>
-	</html>	
+	</html>
+```
 	
 ## Como se puede incluir javascript en HTML.
 	
